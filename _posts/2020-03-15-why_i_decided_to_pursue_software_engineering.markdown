@@ -1,11 +1,10 @@
 ---
 layout: post
-title:      "Why I Decided To Pursue Software Engineering!!"
+title:      "Why I Decided To Pursue Software Engineering"
 date:       2020-03-15 13:25:27 -0400
 permalink:  why_i_decided_to_pursue_software_engineering
 ---
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.webopedia.com%2FTERM%2FS%2Fsoftware-engineer.html&psig=AOvVaw00mFXZuOO59cNcn_JyhM64&ust=1584378805783000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLD62Jn9nOgCFQAAAAAdAAAAABAD)
 
 #### A Spark of Curiosity
 
