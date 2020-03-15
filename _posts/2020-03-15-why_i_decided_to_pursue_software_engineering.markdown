@@ -6,7 +6,7 @@ permalink:  why_i_decided_to_pursue_software_engineering
 ---
 
 
-#### A Spark of Curiosity
+### A Spark of Curiosity
 
 It started with a spark of curiosity about how computers work. This is mostly in part to the friend I’ve made in my life. I’m sure we’ve all had those friends who were really into technology that seem to just know everything about most of the new phones, computers, televisions and whatever else under the scope of technology. 
 
@@ -14,7 +14,7 @@ We found it exciting because in high school it seemed technology was evolving fa
 
 
      
-#### The First Person to Introduce Me to Software Engineering
+### The First Person to Introduce Me to Software Engineering
 
 The first time I was introduced to software engineering I was admittedly very discouraged. I didn’t understand the first thing that was on the page. 
      
@@ -24,7 +24,7 @@ It seemed like magic at the time, but it helped me see that software engineering
 
 
      
-#### Doing Something I’m Interested In
+### Doing Something I’m Interested In
 
 I’ve had a few jobs over the years that would fall under the scope of food, service, and maintenance. I didn’t find myself disliking the positions that I took, but I did find myself thinking that I want a little more out of life. 
      
@@ -32,7 +32,7 @@ I wanted a career that I am interested in so I’ll have that much more to look 
 
 
      
-#### Believing In Myself
+### Believing In Myself
 
 Software Engineering interests me because I like a challenge. I’ve read that taking on software engineering would mean a lifestyle change and requires that someone be willing to learn new things everyday to take on those new challenges. I am ready to nurture and monopolize my curiosity for technology to learn everything I can about the tools I'll need to pursue a new career in software engineering! So I've enrolled in Flatiron's program in order to jumpstart my education! Wish me luck!
 
